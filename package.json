@@ -1,0 +1,18 @@
+{
+  "name": "author_bots",
+  "version": "0.0.0",
+  "description": "An exercise in reddit botting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Joe Lepper",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.5.1",
+    "markov": "0.0.7",
+    "node-cassandra-cql": "^0.4.4",
+    "util": "^0.10.3"
+  }
+}
